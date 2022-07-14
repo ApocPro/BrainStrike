@@ -1,0 +1,2 @@
+pygame==1.9.3
+python-osc==1.6.3
